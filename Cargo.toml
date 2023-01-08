@@ -3,4 +3,5 @@
 members = [
     "boxdemo",
     "serdedemo",
+    "rcdemo",
 ]
