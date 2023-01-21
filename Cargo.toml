@@ -5,4 +5,5 @@ members = [
     "serdedemo",
     "rcdemo",
     "threaddemo",
+    "axumdemo",
 ]
