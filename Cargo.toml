@@ -7,4 +7,5 @@ members = [
     "threaddemo",
     "axumdemo",
     "sqlxdemo",
+    "clapdemo",
 ]
